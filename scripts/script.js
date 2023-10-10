@@ -1,3 +1,9 @@
+/**
+ * Ejemplo Simulacro
+ * Author Mario Alfonso Nuñez (DAW Developer)
+ * GitHub:https://github.com/ManZaWeb/Simulacro_Mario.git
+ */
+
 document.addEventListener('DOMContentLoaded', function() {
     
     const calcular = document.getElementById('calcular')
